@@ -45,7 +45,7 @@ img{
     border: 3px solid white;
     box-shadow: inset 0 0 10px #d14fee, 0 0 15px #d14fee;
     border-radius: 10px;
-    margin: 45px;
+    margin: 100px;
     padding: 20px;
     transition: transform 0.2s;
 }
@@ -123,3 +123,11 @@ a {
     border-radius: 10px;
 }
 
+.compra{
+    text-align: center;
+}
+
+.detalles{
+    text-align: center;
+    font-size: 30px;
+}
