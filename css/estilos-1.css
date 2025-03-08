@@ -7,6 +7,7 @@ body{
     padding: 40px;
     flex-direction: column;
     background-color: #e11364;
+    min-width: 700px;
 }
 
 img{
